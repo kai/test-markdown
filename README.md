@@ -4,7 +4,7 @@ This is the BT Workshop.
 
 ## Agenda
 
-Lorem ipsul. asdasd 
+Lorem ipsul. Proper sentence 
 
 ### Topic 1
 
