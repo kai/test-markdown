@@ -1,0 +1,6 @@
+build/
+dist/
+*.key
+*.vars
+test.md
+test-new.md
